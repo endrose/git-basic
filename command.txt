@@ -1,0 +1,16 @@
+1.  git init  = inisiasi repository.
+2.  git add . = memasukan ke area stagging.
+3.  git commit -m "message" = menyimpan dan memberi pesannya.
+4.  git commit -am "message" = mengupdate dan memberi pesannya.
+5.  git remote add origin master =   - membuat repo dan melakukan inisiasi.
+                                    - meremote repository git hub ke lokal.
+6.  git push -u origin master = mengupload file repo lokal ke repo git hub
+7.  git clone "https://github.com/endrose/portfolioendros.github.io.git" tanpa tada petik = menduplikat repo github ke repo lokal.
+8.  git status  = melihat aktifitas yang berjalan.
+9.  git branch = menampilkan branch.
+10. git branch "dosen" tanpa tanda petik = membuat sebuah branch.
+11. git checkout "a4dc" tanpa tanda petik = mengundo ke commit yang diinginkan.
+12. git log --list = melihat detail user
+13. membuat graph : alias graph="git log --all --decorate --oneline --graph"
+14. git config --global user.email "endros007@gmail.com" = set email
+    git config --global user.name  "endrose" = set nama
