@@ -14,3 +14,5 @@
 13. membuat graph : alias graph="git log --all --decorate --oneline --graph"
 14. git config --global user.email "endros007@gmail.com" = set email
     git config --global user.name  "endrose" = set nama
+15. git fetch origin master = mengambil data sebelum dan menyamakan di git hub maupun di lokal
+16. git merge = menggabungkan branch lain ke branch utama(master)
